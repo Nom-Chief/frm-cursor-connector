@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "frm": {
+      "url": "https://cqxvkuvdzjbrnlxgvben.supabase.co/functions/v1/frm-mcp/mcp?mode=read"
+    }
+  }
+}

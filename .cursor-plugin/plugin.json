@@ -1,0 +1,20 @@
+{
+  "name": "frm-fundraising-read",
+  "version": "1.0.0",
+  "description": "Read donor records, giving reports, campaigns, tasks and optionally connected Gmail in FRM.",
+  "author": {
+    "name": "Cubicle #6 LLC / FRM",
+    "email": "app.getfrm@gmail.com"
+  },
+  "homepage": "https://getfrm.com/integrations/ai/cursor/",
+  "repository": "https://github.com/Nom-Chief/frm-cursor-connector",
+  "license": "MIT",
+  "keywords": [
+    "fundraising",
+    "crm",
+    "donors",
+    "nonprofit",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
